@@ -1,0 +1,2 @@
+Area,Company,Survey,Contact,Location,In Service,Work Order,Technician,Date,Target Current,AF Taps/Rheo,AF Voltage,AF  Amps,AF Circuit #1 Amps,AF Circuit #2 Amps,AL Taps Coarse,AL Taps Fine,AL Voltage,AL Amps,AL Circuit #1 Amps,AL Circuit #2 Amps,Circuit Resistance, Deficiency,In Target,Materials Used,Notes,Model,Serial No,Requires Replacement
+Olds,Whitecap,Olds-Swalwell,Ben Ross,06-07-29-25 W4M,TRUE,,JR,21-Dec-22,6.0 - 7.0,B5,23.7,5.9,,,,B5,23.7,5.9,,,4.02,FALSE,TRUE,,,CSAYSA 50-12 I,C-081709,FALSE
